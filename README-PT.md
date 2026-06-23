@@ -1,4 +1,4 @@
-# 📊 ExpoDesignSQL
+# 🖼️ ExpoDesignSQL
 Um **banco de dados relacional** modelado durante a disciplina de **Fundamentos de Banco de Dados** na Universidade Federal do Ceará (UFC), utilizando o **PostgreSQL**.
 
 ## ❓ O que é o ExpoDesign?
