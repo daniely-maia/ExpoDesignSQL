@@ -8,7 +8,7 @@ O ExpoDesign é uma plataforma expositora de trabalhos dos alunos da universidad
 
 ![ExpoDesign-DER](images/ExpoDesign-DER.png)
 
-## Notação Textual do Modelo Relacional (3NF)
+## Notação Textual do Modelo Relacional (3FN)
 
     ● GALERIA(codigo_galeria [PK], url_capa [FK], codigo_proj [FK UNIQUE])
     ● IMAGEM(id_img[PK], url_imagem)
