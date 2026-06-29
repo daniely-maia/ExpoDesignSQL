@@ -15,7 +15,7 @@ A **relational database** modeled during the **Database Fundamentals** course at
 - Create a relational database to support designers, their various projects, and those who will view them;
 - Generate useful data queries;
 - Create views and access controls using **PgAdmin**;
-- Develop a simple **Python** application for data entry and manipulation.
+- Develop a simple **Python** application for data entry and manipulation, which is contained in the [api-expodesign](https://github.com/ilaryssa/api-expodesign) repository.
 
 ## Entity-Relationship Diagram (ERD)
 
