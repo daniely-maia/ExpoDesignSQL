@@ -38,7 +38,7 @@ A **relational database** modeled during the **Database Fundamentals** course at
     ● COURSE(course_id[PK], course_name)
 
 ## Contributors
-- [**Daniely Maia**](https://github.com/daniely-maia) — Software Engeneering student at the Federal University of Ceará (UFC)
+- [**Daniely Maia**](https://github.com/daniely-maia) — Software Engineering student at the Federal University of Ceará (UFC)
 - [**Lara Gurgel**](https://github.com/laralara1116) — Digital Design student at the Federal University of Ceará (UFC)
 - [**Laryssa Santos**](https://github.com/ilaryssa) — Digital Design student at the Federal University of Ceará (UFC)
 - [**Natan Oliveira**](https://github.com/henrii089) — Digital Design student at the Federal University of Ceará (UFC)
