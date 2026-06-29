@@ -35,3 +35,9 @@ O **ExpoDesign** é uma plataforma expositora de **trabalhos dos alunos da unive
       ○ LINKS(id_link[PK], url_link, nome_link, matricula[FK])
     ● USUARIO(username[PK], nome_usuario)
     ● DISCIPLINA(codigo_disc[PK], nome_disc)
+
+## Contribuidores
+- [**Daniely Maia**](https://github.com/daniely-maia) — Estudante de Engenharia de Software na Universidade Federal do Ceará (UFC)
+- [**Lara Gurgel**](https://github.com/laralara1116) — Estudante de Design Digital na Universidade Federal do Ceará (UFC)
+- [**Laryssa Santos**](https://github.com/ilaryssa) — Estudante de Design Digital na Universidade Federal do Ceará (UFC)
+- [**Natan Oliveira**](https://github.com/henrii089) — Estudante de Design Digital na Universidade Federal do Ceará (UFC)
