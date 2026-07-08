@@ -48,7 +48,6 @@ A **relational database** modeled during the **Database Fundamentals** course at
 - [**Laryssa Santos**](https://github.com/ilaryssa) — Digital Design student at the Federal University of Ceará (UFC)
 - [**Natan Oliveira**](https://github.com/henrii089) — Digital Design student at the Federal University of Ceará (UFC)
 
-
 ## 📄 License
 
-This project is licensed under the MIT License, see the [LICENSE](License) file for details.
+This project is licensed under the MIT License. See the [LICENSE](License) file for more details.
