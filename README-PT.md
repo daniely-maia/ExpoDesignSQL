@@ -4,7 +4,7 @@ Um **banco de dados relacional** modelado durante a disciplina de **Fundamentos 
 ## ❓ O que é o ExpoDesign?
 O **ExpoDesign** é uma plataforma expositora de **trabalhos dos alunos da universidade**, trazendo visibilidade aos trabalhos dos alunos de Design Digital (DD) ao público geral, interno e externo. Desse modo, leva à população externa projetos que seriam promovidos apenas internamente na universidade, assim, aumentando o potencial de divulgação do talento dos alunos de Design Digital da Universidade Federal do Ceará (UFC).
 
-### Principais objetivos
+### 🎯 Principais objetivos
 
 - Aumentar a visibilidade dos trabalhos dos alunos de DD para os outros cursos da universidade e fora dela;
 - Combater visões distorcidas do curso;
@@ -16,11 +16,11 @@ O **ExpoDesign** é uma plataforma expositora de **trabalhos dos alunos da unive
 - Criar visões e controle de acesso pelo **PgAdmin**;
 - Desenvolver uma aplicação simples em **Python** para inserção e manipulação dos dados.
 
-## Diagrama Entidade-Relacionamento (DER)
+## 🔀 Diagrama Entidade-Relacionamento (DER)
 
 ![ExpoDesign-DER](images/ExpoDesign-DER.png)
 
-## Notação Textual do Modelo Relacional (3FN)
+## 📝 Notação Textual do Modelo Relacional (3FN)
 
     ● GALERIA(codigo_galeria [PK], url_capa [FK], codigo_proj [FK UNIQUE])
     ● IMAGEM(id_img[PK], url_imagem)
@@ -36,8 +36,17 @@ O **ExpoDesign** é uma plataforma expositora de **trabalhos dos alunos da unive
     ● USUARIO(username[PK], nome_usuario)
     ● DISCIPLINA(codigo_disc[PK], nome_disc)
 
-## Contribuidores
+## 🛠️ Tecnologias Utilizadas
+
+- [**PostgreSQL**](https://www.postgresql.org/) e **pgAdmin** — SGBD
+- [**draw.io**](https://app.diagrams.net/) — Ferramenta para o DER
+
+## 👥 Contribuidores
 - [**Daniely Maia**](https://github.com/daniely-maia) — Estudante de Engenharia de Software na Universidade Federal do Ceará (UFC)
 - [**Lara Gurgel**](https://github.com/laralara1116) — Estudante de Design Digital na Universidade Federal do Ceará (UFC)
 - [**Laryssa Santos**](https://github.com/ilaryssa) — Estudante de Design Digital na Universidade Federal do Ceará (UFC)
 - [**Natan Oliveira**](https://github.com/henrii089) — Estudante de Design Digital na Universidade Federal do Ceará (UFC)
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](License) para mais detalhes.
