@@ -5,7 +5,7 @@ A **relational database** modeled during the **Database Fundamentals** course at
 ## ❓ What is ExpoDesign?
 **ExpoDesign** is a platform showcasing the **work of university students**, bringing visibility to the work of Digital Design (DD) students to the general public, both internal and external. In this way, it brings projects that would otherwise only be promoted internally to the wider population, thus increasing the potential for disseminating the talent of Digital Design students at the Federal University of Ceará (UFC).
 
-### Main goals
+### 🎯 Main goals
 
 - Increase the visibility of DD students' work among other university programs and beyond;
 - Counteract distorted views of the program;
@@ -17,11 +17,11 @@ A **relational database** modeled during the **Database Fundamentals** course at
 - Create views and access controls using **PgAdmin**;
 - Develop a simple **Python** application for data entry and manipulation, which is contained in the [api-expodesign](https://github.com/ilaryssa/api-expodesign) repository.
 
-## Entity-Relationship Diagram (ERD)
+## 🔀 Entity-Relationship Diagram (ERD)
 
 ![ExpoDesign-ERD](images/ExpoDesign-ERD.png)
 
-## Text Notation of the Relational Model (3NF)
+## 📝 Text Notation of the Relational Model (3NF)
 
     ● GALLERY(gallery_id [PK], cover_url [FK], proj_id [FK UNIQUE])
     ● IMAGE(img_id[PK], img_url)
@@ -37,13 +37,18 @@ A **relational database** modeled during the **Database Fundamentals** course at
     ● USER(username[PK], user_fullname)
     ● COURSE(course_id[PK], course_name)
 
-## Contributors
+## 🛠️ Technologies Used
+
+- [**PostgreSQL**](https://www.postgresql.org/) and **pgAdmin** — DBMS
+- [**draw.io**](https://app.diagrams.net/) — ERD tool
+
+## 👥 Contributors
 - [**Daniely Maia**](https://github.com/daniely-maia) — Software Engineering student at the Federal University of Ceará (UFC)
 - [**Lara Gurgel**](https://github.com/laralara1116) — Digital Design student at the Federal University of Ceará (UFC)
 - [**Laryssa Santos**](https://github.com/ilaryssa) — Digital Design student at the Federal University of Ceará (UFC)
 - [**Natan Oliveira**](https://github.com/henrii089) — Digital Design student at the Federal University of Ceará (UFC)
 
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License, see the [LICENSE](License) file for details.
