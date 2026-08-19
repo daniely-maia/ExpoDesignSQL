@@ -14,7 +14,7 @@ O **ExpoDesign** é uma plataforma expositora de **trabalhos dos alunos da unive
 - Criar um banco de dados relacional que suporte os designers, seus diversos trabalhos realizados e quem for visualizar os mesmos;
 - Gerar consultas úteis sobre os dados;
 - Criar visões e controle de acesso pelo **PgAdmin**;
-- Desenvolver uma aplicação simples em **Python** para inserção e manipulação dos dados.
+- Desenvolver uma aplicação simples em **Python** para inserção e manipulação dos dados, que encontra-se presente no repositório [api-expodesign](https://github.com/ilaryssa/api-expodesign).
 
 ## 🔀 Diagrama Entidade-Relacionamento (DER)
 
